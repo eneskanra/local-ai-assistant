@@ -1,0 +1,14 @@
+# Ortam değişkenleri / gizli bilgiler
+.env
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Yerel araç klasörleri (.venv içine işaret eden symlink'ler)
+.claude/
+.agents/
+
+# macOS
+.DS_Store
